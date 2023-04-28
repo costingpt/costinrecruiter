@@ -12,3 +12,4 @@ Welcome to my GitHub page! As a dedicated sourcing consultant, I'm committed to 
    </p>
    
    ---
+![giphy](https://user-images.githubusercontent.com/130037037/235217173-e6a07b39-06e2-4ef2-a671-8115f3a68ae1.gif)
